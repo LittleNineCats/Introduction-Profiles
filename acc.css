@@ -1,0 +1,95 @@
+
+ /* Device = Most of the Smartphones Mobiles (Portrait) */
+ @media (min-width: 320px) and (max-width: 480px) {
+  
+    #list-acc {
+     max-width: fit-content;
+     margin-inline: auto;
+  }
+
+  .themes {
+    max-width:fit-content;
+    margin-inline: auto;
+  }
+
+img {
+    width: 8em;
+    height: 8em;
+    border-radius: 5em;
+    border: 0.1em solid;
+}
+
+fieldset {
+    margin-top: 4rem;
+    border-radius: 2rem;
+    padding-left: 2rem; 
+    max-width: 20rem;
+    border: 2px solid;
+   
+}
+
+legend {
+    max-width: 100%;
+}
+
+ul {
+    max-width: fit-content;
+}
+
+li {
+    margin-bottom: 0.5rem;
+}
+ }
+
+
+/* Desktop */
+
+    #list-acc {
+     max-width: fit-content;
+     margin-inline: auto;
+  }
+
+  .themes {
+    max-width:fit-content;
+    margin-inline: right;
+  }
+
+  footer {
+    margin-top: 2rem;
+    border-radius: 2rem;
+  }
+
+  .foot {
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+  }
+
+img {
+    width: 8em;
+    height: 8em;
+    border-radius: 5em;
+    border: 0.2em solid;
+}
+
+fieldset {
+    margin-top: 4rem;
+    border-radius: 2rem;
+    padding-left: 2rem; 
+    max-width: 20rem;
+    border: 2px solid;
+   
+}
+
+legend {
+    width: 100%;
+}
+
+ul {
+    max-width: fit-content;
+}
+
+li {
+    margin-bottom: 0.5rem;
+}
+ 
